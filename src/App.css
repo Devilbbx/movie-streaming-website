@@ -49,3 +49,23 @@ header nav a {
   width: 300px;
   border-radius: 10px;
 }
+
+
+.search-bar {
+  display: flex;
+  justify-content: center;
+  margin: 20px;
+}
+
+.search-bar input {
+  width: 300px;
+  padding: 10px;
+  font-size: 16px;
+}
+
+.search-bar button {
+  padding: 10px;
+  font-size: 16px;
+  margin-left: 10px;
+  cursor: pointer;
+}
